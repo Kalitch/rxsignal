@@ -2,10 +2,16 @@
 
 > **FDA Regulatory Intelligence Platform** — search, monitor, and analyze public FDA data in real time with AI-assisted pharmacovigilance.
 
+<img width="1920" height="1080" alt="Screenshot 2026-02-27 at 16-49-37 RxSignal openFDA Intelligence Platform" src="https://github.com/user-attachments/assets/cf75f63d-e421-4881-ab38-beffdf2c0188" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-27 at 16-50-22 RxSignal openFDA Intelligence Platform" src="https://github.com/user-attachments/assets/213d9175-ead1-4cd9-a398-44b2ab23bd90" />
+
+<img width="1920" height="927" alt="Screenshot 2026-02-27 at 16-31-23 RxSignal openFDA Intelligence Platform" src="https://github.com/user-attachments/assets/801adaaa-ae5f-43c9-b356-56f17784d929" />
+<img width="1920" height="927" alt="Screenshot 2026-02-27 at 16-31-30 RxSignal openFDA Intelligence Platform" src="https://github.com/user-attachments/assets/aa95e404-ca6c-40f5-85c9-142043e44954" />
+
 
 
 ---
-
 ## What is RxSignal?
 
 RxSignal is a full-stack regulatory intelligence platform built on top of the FDA's public API (openFDA). The goal is to turn raw FDA safety data — scattered across multiple endpoints and dense JSON formats — into interactive dashboards, search tools, and AI-assisted analyses that researchers, healthcare professionals, and pharmacovigilance teams can actually use without writing a single line of code.
