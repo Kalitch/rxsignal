@@ -29,7 +29,8 @@ export function KpiCard({ label, value, icon: Icon, trend, color = "blue", delay
           <p className="text-[12px] text-[#94A3B8] uppercase tracking-wider mb-1">{label}</p>
           <p className="text-[28px] font-bold text-[#1E293B] leading-none mb-1">{value}</p>
           {trend && <p className="text-xs text-[#64748B] mb-3">{trend}</p>}
-          <div className="text-sm text-primary hover:text-[#2D8AC8] cursor-pointer inline-flex items-center transition-colors">
+          {/* TODO: Implement card click */}
+          <div style={{ display: "none" }} className="text-sm text-primary hover:text-[#2D8AC8] cursor-pointer inline-flex items-center transition-colors">
             View data &rarr;
           </div>
         </div>

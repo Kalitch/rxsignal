@@ -62,8 +62,7 @@ class MistralClient:
         payload = {
             "model": self.model,
             "messages": [
-                {"role": "system", "content": system},
-                {"role": "user", "content": user_message},
+                {"role": "user", "content": f"{system}\n\n{user_message}"},
             ],
             "temperature": temperature,
             "max_tokens": 500,
